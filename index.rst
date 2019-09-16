@@ -5,7 +5,9 @@
 
 :ref:`使用手冊`
 ==============
-
+Section to cross-reference
+--------------------------
+.
 
 :ref:`維護手冊`
 ==============
@@ -76,7 +78,7 @@ Section to cross-reference
 
 
 
-It refers to the section itself, see :ref:`a`.
+It refers to the section itself
 
 
 
