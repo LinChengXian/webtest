@@ -3,14 +3,7 @@
 =================
 
 
-使用手冊 `a link`_
-.. _a link: http://google.com/
-==============
-
-
-維護手冊 `a linking`_
-.. _a linking: http://google.com/
-==============
-
-
+A sentence with links to `Wikipedia`_ and the `Linux kernel archive`_.
+.. _Wikipedia: https://www.wikipedia.org/
+.. _Linux kernel archive: https://www.kernel.org/
 
