@@ -3,8 +3,7 @@
 =================
 
 
-... _my-reference-label:
-使用手冊
+:ref:`writing-rest-introduction`
 =========
 
 .. _b:
