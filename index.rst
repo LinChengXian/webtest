@@ -2,7 +2,8 @@
 使用手冊及維護手冊
 =================
 
-.. _a:
+
+... _my-reference-label:
 使用手冊
 =========
 
@@ -44,9 +45,7 @@ Section to cross-reference
 .
 .
 
-This is the text of the section.
 
-It refers to the section itself, see :ref:`my-reference-label`.
 .
 .
 .
