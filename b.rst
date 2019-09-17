@@ -1,6 +1,6 @@
-﻿部份標題:
-#########
+This is the text of the section.
 
+<<<<<<< HEAD
 章節標題:
 =========
 
@@ -74,3 +74,7 @@ index.rst
 
 :ref:`維護手冊`
 ==============
+=======
+It refers to the section itself, see :ref:`my-reference-label`.
+維護手冊
+>>>>>>> f3f383cefabf60a551aa50fc36f9f55dff56594b
