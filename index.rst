@@ -13,7 +13,7 @@
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: 使用手冊
    電氣訊號擷取系統使用手冊
@@ -21,7 +21,7 @@
    
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: 維護手冊
    電氣訊號擷取系統維護手冊
