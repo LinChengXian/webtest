@@ -13,7 +13,7 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: 使用手冊及維護手冊
    
