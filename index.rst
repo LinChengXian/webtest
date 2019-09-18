@@ -15,8 +15,17 @@
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: 使用手冊及維護手冊
+   :caption: 使用手冊
+   電氣訊號擷取系統使用手冊
+   振動訊號擷取系統使用手冊
    
+   
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: 維護手冊
+   電氣訊號擷取系統維護手冊
+   振動訊號擷取系統維護手冊
  
 
 
