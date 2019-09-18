@@ -1,6 +1,8 @@
 高壓馬達運轉狀態監控系統
 =======================================
 
+.. meta::
+   :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
 
 
 
