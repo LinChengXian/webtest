@@ -121,5 +121,33 @@ channel.X.offset   設定直流準位
 三、電氣訊號擷取系統之終端機操作
 ------------------------------
 
+* 1.Windows10左下角搜尋「裝置管理員」
 
+.. figure:: /使用手冊照片/a13.png
+
+圖13-裝置管理員介面
+
+* 2.打開連接埠並找尋USB Serial Port
+
+.. figure:: /使用手冊照片/a14.png
+
+圖14-尋找Com Port
+
+* 3.打開PuTTY
+
+.. figure:: /使用手冊照片/a15.png
+
+圖15.Putty設定介面
+
+* 4.先點選Serial，再在Serial line、Speed 內輸入COM PORT及鮑率
+
+.. figure:: /使用手冊照片/a16.png
+
+圖16-Serial 設定示意圖
+
+* 5.按下Open後會出現下圖畫面
+
+.. figure:: /使用手冊照片/a17.png
+
+圖17-進入PuTTY 介面示意圖
 
