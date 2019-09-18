@@ -5,7 +5,7 @@
    :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
 
 
-First steps
+使用手冊
 -----------
 
 
@@ -14,10 +14,10 @@ First steps
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: First steps
+   :caption: 使用手冊
 
-   使用手冊
-   維護手冊
+   電氣訊號擷取系統使用手冊
+   振動訊號擷取系統使用手冊
 
 
 Getting started with Read the Docs
