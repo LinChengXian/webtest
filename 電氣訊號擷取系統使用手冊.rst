@@ -41,7 +41,7 @@
 
 1.輸入此指令：#vi /etc/modprobe.d/adc_ti_ads8556.conf
 
-.. figure:: /使用手冊照片/a5.g
+.. figure:: /使用手冊照片/a5.png
 
 
 三、電氣訊號擷取系統之終端機操作
