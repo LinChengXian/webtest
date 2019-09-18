@@ -34,6 +34,7 @@
 * 二、於am335x-evm login: 輸入「root」，並且按「Enter」
 
 .. figure:: /使用手冊照片/a4.jpg
+
         圖4-嵌入式系統登入介面圖
 
 2.1、A/D片數設定
