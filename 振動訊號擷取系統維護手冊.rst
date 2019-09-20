@@ -9,7 +9,8 @@
 * 解決方法1：確認嵌入式系統是否成功連上網路，若無，檢查網路線是否損壞、網路線與網路線插孔是否確實連接。
 
 
-解決方法2：確認嵌入式系統 Channel 是否正確設定，至嵌入式系統Setting介面，如圖1，進入Setting介面並找到Channel介面，如圖2，進入Channel介面並找到 Ch0 UUID，如圖3，進入Ch0 UUID 介面並確認channel 是否成功設定，若有，按「SET鍵」回到上一層，並在Channel 介面中依序進入Ch1 UUID 至 Ch3 UUID 介面檢查 Channel是否成功設定，若無，則須重新設定Channel。
+解決方法2：確認嵌入式系統 Channel 是否正確設定，至嵌入式系統Setting介面，如圖1，進入Setting介面並找到Channel介面，如圖2，進入Channel介面並找到 Ch0 UUID，如圖3，進入Ch0 UUID 介面並確認channel 是否成功設定。
+若有，按「SET鍵」回到上一層，並在Channel 介面中依序進入Ch1 UUID 至 Ch3 UUID 介面檢查 Channel是否成功設定，若無，則須重新設定Channel。
 
 
 
